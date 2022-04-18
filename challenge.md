@@ -37,9 +37,6 @@ Onde:
 
 * Identifique os principais problemas encontrados e arquiteture uma solução eficiente.
 
-* Desenvolva uma prova de conceito da modelagem do sistema que você fez.  
-- - Não há preferência por linguagem de programação ou tecnologias que serão utilizadas para resolver o problema. É importante que seja reproduzível. 
+* Desenvolva utilizando ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 * Será um diferencial se for possível executar em um **cloud provider**. 
-
-* Nosso principal foco da avaliação é a arquitetura da aplicação, então queremos ver como ela pode ser de forma ideal. 
